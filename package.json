@@ -1,0 +1,19 @@
+{
+  "name": "bc-m-promo-prompt",
+  "version": "0.1.1",
+  "description": "The coolest cortex module.",
+  "main": "index.js",
+  "repository": "git://code.dianpingoa.com/f2e/bc-m-promo-prompt.git",
+  "keywords": [
+    "promot"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "penny.li",
+    "email": "penny.li@dianping.com"
+  },
+  "bugs": {
+    "url": "http://code.dianpingoa.com/f2e/bc-m-promo-prompt/issues"
+  },
+  "homepage": "http://code.dianpingoa.com/f2e/bc-m-promo-prompt"
+}
